@@ -93,7 +93,7 @@ The platform uses a hybrid, three-tier decoupled processing pipeline designed fo
 
 1.  **Clone the Repository**
     ```bash
-    git clone https://github.com/your-enterprise/next-gen-ats-screening.git
+    git clone https://github.com/prachi-sonii/next-gen-ats-screening.git
     cd next-gen-ats-screening
     ```
 
